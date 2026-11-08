@@ -1,0 +1,5 @@
+.venv/
+.env
+__pyache__/
+.DS Store
+tempCodeRunnerFile.python 
